@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juhhlio/juhhlio/blob/main/Design%20sem%20nome.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juhhlio/juhhlio/blob/main/zyro-image.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Eu ❤️ amo aprender e resolever problemas tecnológicos. <br><br> Eu sou Julio Cesar, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia. Atualmente, estou focado em aprender Java e SQL para criar soluções inovadoras. Estou aberto a oportunidades de colaboração e ansioso para aplicar meu conhecimento em projetos desafiadores..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
