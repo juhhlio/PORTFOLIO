@@ -10,18 +10,18 @@ PYTHON
 JAVA
 SQL
 
-##Contato
+## Contato
 E-mail: j.cesarnr.03@gmail.com
 LinkedIn: https://www.linkedin.com/in/julio-cesar-5a6350222/
 
-##Idiomas
+## Idiomas
 Portugues : nativo
 Inglês: basico
 
-##Certificações
+## Certificações
 JAVA - UDEMY 
 
-##Interesses
+## Interesses
 JAVA
 SPRING
 
