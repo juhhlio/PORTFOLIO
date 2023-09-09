@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/juhhlio/juhhlio/blob/main/zyro-image.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu ❤️ amo aprender e resolever problemas tecnológicos. <br><br> Eu sou Julio Cesar, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia. Atualmente, estou focado em aprender Java e SQL para criar soluções inovadoras. Estou aberto a oportunidades de colaboração e ansioso para aplicar meu conhecimento em projetos desafiadores..</p>&nbsp;
+<p align="center">Eu ❤️ amo aprender e resolver problemas tecnológicos. <br><br> Eu sou Julio Cesar, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia. Atualmente, estou focado em aprender Java e SQL para criar soluções inovadoras. Estou aberto a oportunidades de colaboração e ansioso para aplicar meu conhecimento em projetos desafiadores..</p>&nbsp;
 
 
  
