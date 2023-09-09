@@ -45,7 +45,7 @@
 &nbsp;
 &nbsp;
 ## CURRICULO:
-<a href="" target="_blank"><img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
+<a href="https://github.com/juhhlio/juhhlio/blob/main/Curr%C3%ADculo%20-%20J%C3%BAlio%20Cesar%20Do%20Nascimento%20Rocha.pdf" target="_blank"><img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white">
 
 ## CONTATOS:
 
