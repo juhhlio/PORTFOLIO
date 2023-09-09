@@ -2,26 +2,26 @@
 Portifolio Julio Cesar
 Bem-vindo ao meu portfólio! Aqui, você encontrará uma coleção dos meus projetos e trabalhos mais recentes na área de Back-end com JAVA.
 
-Sobre Mim
+## Sobre Mim
 Como um apaixonado estudante de Java, estou em uma jornada empolgante para dominar essa linguagem de programação poderosa. Desde que me aventurei no mundo do desenvolvimento de software, Java se tornou minha paixão e minha ferramenta preferida para criar soluções escaláveis e eficientes.
 
-Habilidades
+## Habilidades
 PYTHON
 JAVA
 SQL
 
-Contato
+##Contato
 E-mail: j.cesarnr.03@gmail.com
 LinkedIn: https://www.linkedin.com/in/julio-cesar-5a6350222/
 
-Idiomas
+##Idiomas
 Portugues : nativo
 Inglês: basico
 
-Certificações
+##Certificações
 JAVA - UDEMY 
 
-Interesses
+##Interesses
 JAVA
 SPRING
 
