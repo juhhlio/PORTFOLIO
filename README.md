@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+pessoal%2C+sou+o+Julio+Cesar;Desenvolvedor+Back-end" alt="Typing SVG" /></a>
+  <img <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=FFFFFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+pessoal%2C+sou+o+Julio+Cesar;Desenvolvedor+Back-end" alt="Typing SVG" /></a>
 </div>
 
 <img align="right" height="280" width="280" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" >
